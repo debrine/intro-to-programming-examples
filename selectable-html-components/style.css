@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+}
+
+.container div {
+  border: 1px solid black;
+  margin: 12px;
+  padding: 4px;
+}
+
+.selected {
+  background-color: chartreuse;
+}
